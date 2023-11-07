@@ -19,7 +19,7 @@ export default function Projects() {
           </React.Fragment>
         ))}
         <p className="text-center max-w-[45rem] italic">
-          I'm currently engaged in several exciting projects, and I can't wait
+          I am currently engaged in several exciting projects, and I cannot wait
           to share them with you. Stay tuned for updates on my latest work,
           including details on the technologies, challenges, and outcomes of
           these projects. More to come soon!
