@@ -30,17 +30,14 @@ export default function About() {
         </span>
         . I am also familiar with TypeScript and Tailwind. I am always looking
         to learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        <span className="font-medium">full-time or part-time position</span> as
+        a software developer.
       </p>
       <p>
         {" "}
         <span className="italic">When Iam not coding</span>, I enjoy playing
         video games, watching movies, and playing basketball. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I am also
-        learning how to play the guitar.
+        <span className="font-medium">learning new things.</span>
       </p>
     </motion.section>
   );
