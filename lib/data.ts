@@ -57,7 +57,7 @@ export const experiencesData = [
     title: "Front-End Developer",
     location: "Bhopal, IN",
     description:
-      "I'm now a front-end developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, and MongoDB. I'm open to full-time and part-time opportunities.",
+      "I am now a front-end developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, and MongoDB. I'm open to full-time and part-time opportunities.",
     icon: React.createElement(FaReact),
     date: "2022 - present",
   },
