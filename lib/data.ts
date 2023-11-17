@@ -93,7 +93,7 @@ export const projectsData = [
   {
     title: "SoleSavvy",
     description:
-      "A user-friendly e-commerce website that serves as an online platform for showcasing a variety of shoe products.It intentionally excludes the ordering feature to simplify the project's scope",
+      "A user-friendly e-commerce website that serves as an online platform for showcasing a variety of shoe products.It intentionally excludes the ordering feature to simplify the project's scope.",
     tags: ["React", "Tailwind"],
     imageUrl: soleSavvy,
     href: "https://darling-rolypoly-fd6a47.netlify.app/",
