@@ -5,10 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import googleCalcImg from "@/public/google-calc.png";
 import jovianCareersImg from "@/public/jovian-careers.png";
 import khaleelPicture from "@/public/khaleel2.png";
-import soleSavvy from "@/public/solesavvy.png";
-import todoApp from "@/public/todoapp.png";
 import youtube from "@/public/youtube.png";
-import movieland from "@/public/movieland.png";
 export const links = [
   {
     name: "Home",
@@ -89,31 +86,7 @@ export const projectsData = [
     tags: ["JavaScript", "Bootstrap", "ExpressJS"],
     imageUrl: jovianCareersImg,
     href: "https://jovian-careers-express-live-ecru.vercel.app/",
-  },
-  {
-    title: "SoleSavvy",
-    description:
-      "A user-friendly e-commerce website that serves as an online platform for showcasing a variety of shoe products.It intentionally excludes the ordering feature to simplify the project's scope.",
-    tags: ["React", "Tailwind"],
-    imageUrl: soleSavvy,
-    href: "https://darling-rolypoly-fd6a47.netlify.app/",
-  },
-  {
-    title: "To do List",
-    description:
-      "Created a minimalist To-Do App using React that implements the CRUD (Create, Read, Update, Delete) operations. This app allows users to effortlessly manage their tasks.",
-    tags: ["React", "Tailwind"],
-    imageUrl: todoApp,
-    href: "https://coruscating-palmier-7fe8be.netlify.app",
-  },
-  {
-    title: "MovieLand",
-    description:
-      "Designed and built 'MovieLand' app using React, empowering users to easily search for movies and access release year information",
-    tags: ["React", "Tailwind"],
-    imageUrl: movieland,
-    href: "https://movie-land-eta.vercel.app/",
-  },
+  }
 ] as const;
 
 export const skillsData = [
